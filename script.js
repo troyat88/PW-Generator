@@ -4,7 +4,7 @@ var generateBtn = document.querySelector("#generate");
 var lowerCase = ["abcdefghijklmnopqrstuvwxyz"];
 var spcChar = ["!@#$%^&*"];
 var numbers = ["1234567890"];
-var upperCase = ["abcdefghijklmnopqrstuvwxyz"]
+var upperCase = ["ABCDEFGHIJKLMNOPQRSTUVWXYZ"]
 var pwTemp = [""]
 
 
